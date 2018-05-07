@@ -36,3 +36,5 @@ Build/
 Intermediate/
 Saved/
 DerivedDataCache/
+*.VC.db
+escapeRoom/Content/StarterContent/
