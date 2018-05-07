@@ -31,6 +31,8 @@
 *.out
 *.app
 
-
+Binaries/
+Build/
 Intermediate/
 Saved/
+
